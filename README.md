@@ -1,6 +1,6 @@
-## Analyze the behavior of solar cells
+## Analyse the behavior of solar cells
 Solar cells have roughly the same behavior as photodiodes. The internal resistance depends on the exposed light.
-To analyze the internal resistance, we measure the voltage on a known resistor and the opencircuit voltage. Illuminance is also measured to associate it with the internal resistance.
+To analyse the internal resistance, we measure the voltage on a known resistor and the opencircuit voltage. Illuminance is also measured to associate it with the internal resistance.
 
 ![opencircuit voltage](https://i.ibb.co/nD24Knh/opencircuit.png)
 
